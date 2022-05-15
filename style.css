@@ -83,20 +83,20 @@ body {
 }
 
 .contact-info ul li,
-.references ul li {
+.references ul li{
     padding: .4rem 0;
     display: flex;
     align-items: center;
     color: #d6dbdfaf;
     letter-spacing: 1px;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #2E86C1;
+    color: #70C6C7;
 }
 
 .skills ul {
@@ -161,7 +161,7 @@ body {
 .awards-contents {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    padding-bottom: 2rem;
+    padding-bottom: 0rem;
     color: #F1F8FD;
 }
 
