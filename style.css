@@ -19,6 +19,7 @@ body {
 
 .left-section {
     grid-column: span 2;
+    max-width: 30%;
     height: auto;
     background-color: #00204A;
 }
