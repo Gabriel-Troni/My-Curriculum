@@ -11,7 +11,7 @@ A resume page containing my personal information, including contact details, exp
 
 ## Screenshots
 <div style="display: flex;">
-  <img src="#" alt="Main screen" style="">
+  <img src="./img/mainScreen.png" alt="Main screen" style="">
 </div>
 
 ## Acknowledgements
